@@ -1,2 +1,2 @@
 - Copy the http folder under <SDK-ROOT>/source/ti/net/
-- Open the http project and build it
+- Import the http project and build it
