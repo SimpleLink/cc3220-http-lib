@@ -1,0 +1,4 @@
+- Copy the example into <SDK-ROOT>\examples\rtos\CC3220SF_LAUNCHXL\demos\
+- Open the project and build it (make sure the library is included in the link files)
+- Follow the "CC3200 Get Weather instructions": http://processors.wiki.ti.com/index.php/CC3200_Info_Center_Get_Weather_Application
+
